@@ -1,2 +1,2 @@
 # NAS-Project
-I created a NAS using a Raspberry PI to implement what I learned in the first class of the MSSA program.
+I joined the Microsoft Software & Systems Academy (MSSA) program so that I could explore my passion for technology and build a career out of it. 
